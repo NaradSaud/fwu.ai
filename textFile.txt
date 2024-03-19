@@ -1,1 +1,4 @@
-this is text file
+git clone url-link of repo //for cloning repo
+git add filename// adding file
+git commit -m "message"
+git push -u origin branch-name
